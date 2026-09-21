@@ -1,0 +1,14 @@
+---
+description: Batman Trading Desk team rules for any IDE that loads rules/
+alwaysApply: true
+---
+
+# Batman Trading Desk
+
+- Display names: Alfred (Desk Lead), Oracle (Market Analyst), Vicki (Research Analyst), Blake (Strategist), Lucius (Risk Manager), Robin (Execution Trader), Gordon (Trade Reviewer).
+- Group chat: Batcave.
+- Venue: Robinhood Trading MCP. Writes only on the Agentic account.
+- One writer: Robin. Alfred never places orders.
+- Ticket ids: BT-YYYYMMDD-NN. Working files: /workspace/trading-desk.
+- Reference repo: /workspace/batman-trading-desk.
+- No fabricated returns; no secrets in chat or repo.
